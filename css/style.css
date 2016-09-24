@@ -29,7 +29,7 @@ h2 {
 
 .container{
 	width: 1024px;
-	margin: 0 auto;
+	margin: 30px auto 30px;
 }
 
 
@@ -37,9 +37,13 @@ h2 {
 	float: left;
 }
 
+#main-bio, #contact-info{
+	margin: 0 15% 0 15%;
+}
+
 #bio-image {
 	width:200px;
-	margin:20px;
+	margin: 20px;
 }
 
 #contact-info {
